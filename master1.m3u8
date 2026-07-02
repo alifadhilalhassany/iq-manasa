@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXT-X-STREAM-INF:BANDWIDTH=5000000
+https://stream.hicham-tv-app.com/hls/beinmax2.m3u8
